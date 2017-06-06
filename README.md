@@ -3,7 +3,7 @@ vagrant-grav
 
 A Vagrant box for [grav](https://github.com/epickrram/grav) development.
 
-This box will include:
+This box includes:
 
 1. ubuntu trusty64
 1. Java OpenJDK8
