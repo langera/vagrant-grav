@@ -1,6 +1,9 @@
 vagrant-grav
 ============
 
+THIS PROJECT HAS BEEN MERGED WITH [grav](https://github.com/epickrram/grav)
+
+
 A Vagrant box for [grav](https://github.com/epickrram/grav) development.
 
 This box includes:
